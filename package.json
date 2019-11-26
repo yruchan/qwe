@@ -1,0 +1,24 @@
+{
+  "name": "rchntest",
+  "version": "1.0.0",
+  "description": "deneme",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo 'bu bir denemedir'\"",
+    "test2": "node index"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "ruchan",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.12",
+    "simple-is": "^0.2.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url": "https://github.com/yruchan/qwe.git"
+  }
+}
